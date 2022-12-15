@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search_contact">Search With Phone Number or Name</string>
+    <string name="no_contact_found">No Contact Found !</string>
+</resources>
